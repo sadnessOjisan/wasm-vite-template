@@ -1,0 +1,1 @@
+# wasm-vite-template
